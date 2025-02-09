@@ -14,6 +14,8 @@
 
 The program uses machine learning technique to classify stellar objects into stars, galaxies and quasars. K nearest neighbours classifier is used in this project which classifies between the categories with an accuracy of **95%**.
 
+The data used in this project consists of 100,000 observations of space taken by the SDSS (Sloan Digital Sky Survey). Every observation is described by 17 feature columns and 1 class column which identifies it to be either a star, galaxy or quasar.
+
 ## Getting Started
 
 ### Prerequisites

@@ -1,7 +1,7 @@
 # Stellar Classification 🌌
 
 <p align = "center">
-<img src = "https://usagif.com/wp-content/uploads/gif/outerspace-58.gif" height = 200 width = 500/>
+<img src = "https://usagif.com/wp-content/uploads/gif/outerspace-58.gif" height = 200 width = 800/>
 </p>
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
